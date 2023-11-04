@@ -23,7 +23,7 @@ The UNSD data has regional, sub-regional, and intermediate region listed for eac
 ##### Software: Jupiter Notebook, Excel, Tableau
 ## Skills Demonstrated
 ### Cleaning data
-Removed duplicates, resolved missing values using interpolation and extrapolation, and addressed mixed or incorrect data types.
+Removed duplicates, resolved missing values, and addressed mixed or incorrect data types.
 ### Merging data
 Selected and prepared data for merging, and confirmed successful merge from four different datasets. 
 ### Exploratory analysis using PYTHON
@@ -31,13 +31,14 @@ Selected and prepared data for merging, and confirmed successful merge from four
 #### Defined research questions and two different hypotheses.
 ### Addressing the defined questions/hypotheses using advanced analytical techniques. 
 #### Geospatial analysis using Folium with a shapefile
-##### 
+##### Data cleaning, resolved missing values using interpolation and extrapolation.
+##### Used shapefile (world_countries.json) to generate spatial maps with Folium.
 #### Regression analysis
-#####
+##### Data preparation for regression analysis, Performed linear regression to analyze both hypotheses but learned that the model does not fit the data in both cases. Need to analyze the data with other models.
 #### Cluster analysis 
-##### Used k-means clustering
+##### Used k-means clustering, and found inconsistencies within clusters. Other anomaly detection techniques could be used to understand the characteristics of each cluster.
 #### Time-series analysis 
-##### Time series decomposition, Testing for Stationarity(using Dickey-Fuller test) and Autocorrelation
-###### Tried forecasting using the ARIMA model but received errors. Need to try another model like Prophet.
+##### Time series decomposition to analyze the trend, seasonality, cycle and noise in the data, Testing for Stationarity(using the Dickey-Fuller test) and Autocorrelation.
+###### Tried forecasting using the ARIMA model but received errors. Need to try another model like Prophet for a successful forecast.
 
 ### Visualizations
