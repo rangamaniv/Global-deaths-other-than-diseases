@@ -38,7 +38,8 @@ Selected and prepared data for merging, and confirmed successful merge from four
 #### Cluster analysis 
 ##### Used k-means clustering, and found inconsistencies within clusters. Other anomaly detection techniques could be used to understand the characteristics of each cluster.
 #### Time-series analysis 
-##### Time series decomposition to analyze the trend, seasonality, cycle and noise in the data, Testing for Stationarity(using the Dickey-Fuller test) and Autocorrelation.
-###### Tried forecasting using the ARIMA model but received errors. Need to try another model like Prophet for a successful forecast.
-
+##### Time series decomposition to analyze the trend, seasonality, cycle, and noise in the data, Testing for Stationarity(using the Dickey-Fuller test) and Autocorrelation.
+##### Tried forecasting using the ARIMA model but received errors. Need to try another model like Prophet for a successful forecast.
 ### Visualizations
+#### Visualizations were created in Tableau. The link to the storyboard can be found here:https://public.tableau.com/app/profile/rangamani.varadachary/viz/Exercise6_7GlobalDeathsotherthandiseasesStoryboard/GlobaldeathsStoryboard?publish=yes
+
